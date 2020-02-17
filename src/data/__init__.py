@@ -1,6 +1,8 @@
 from pathlib import Path
 from os.path import join
 import pandas as pd
+import os
+from dotenv import find_dotenv, load_dotenv
 
 PROJECT_DIR = Path(__file__).resolve().parents[2]
 
