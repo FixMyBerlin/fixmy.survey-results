@@ -92,7 +92,7 @@ six==1.14.0
 # Editable Git install with no remote (src==0.1.0)
 -e /Users/tumor/Documents/Projekte/fixmycity
 tensorboard==2.1.0
-tensorflow==2.1.0
+tensorflow==2.9.3
 tensorflow-estimator==2.1.0
 termcolor==1.1.0
 terminado==0.8.3
